@@ -7,5 +7,5 @@ https://colab.research.google.com/github/LilMinmax/GANpg1/blob/master/Demo1.ipyn
 
 ## Cats
 
-https://colab.research.google.com/github/LilMinmax/GANpg1/blob/master/Catssss.ipynb#
+https://colab.research.google.com/github/LilMinmax/GANpg1/blob/master/Catsss.ipynb#
 
